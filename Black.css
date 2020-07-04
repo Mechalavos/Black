@@ -20,6 +20,14 @@ body, html {
     background-color: rgb(105, 184, 202)!important;
 }
 
+#webcamsContainer {
+    display: flex;
+    overflow-x: initial;
+    overflow-y: auto;
+    flex-direction: column;
+    
+}
+
 #djButtonContainer {
     display:none!important;
 }
