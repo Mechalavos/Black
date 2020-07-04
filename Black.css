@@ -1,25 +1,228 @@
-#container {
-    background-image: url("https://i.imgur.com/ZdQOKy6.jpg");
-    background-size: cover;
-}
-#tabs .nav-tabs {
-    background-color: inherit;
-}
-#roomsContainer2, #usersContainer2, #friendsContainer2 {
-    background-color: inherit;
+
+body, html {
+    background-color: #BED0E5 !important;
 }
 
-#footer {
-    background-color: inherit;
+.welcome{
+    background-color: rgba(0, 0, 0, 0.7)!important;
+    color: white!important;
 }
 
-#tabs .tab-pane  {
-    background-color: inherit;
+.roomJoinBtn {
+    background-color:#21ade8!important;
+}
+
+.btn-danger, .btn-danger.active {
+    background-color: #efb8ca!important;
+}
+
+.btn-succes.active, .btn-success {
+    background-color: rgb(105, 184, 202)!important;
+}
+
+#djButtonContainer {
+    display:none!important;
+}
+
+.search-bar, #usersContainer #usersContainer2 .flex-container {
+    background-color: #fff!important;
+}
+
+.gifMaximized {
+    max-width: 300px !important;
+}
+
+/*
+:last-child.header-btn-wrap {
+    display:none !important;
+}
+*/
+
+#room_2392 {
+    background-color: #f3f5fb !important;
+}
+
+#chatContainer {
+    background-color: #BED0E5!important;
+    border: 2px solid #BED0E5 /*ca6988 f3f5fb*/ !important;
 }
 
 #tabs {
-    background-color: inherit;
+    background-color: #BED0E5 !important;
 }
+
+#tabs .nav-tabs {
+    background-color: #BED0E5 !important;
+}
+
+#tabs .tab-content {
+    border-radius: 0 10px 10px 0px!important;
+    border: 5px solid #fff!important;
+    background-color: white !important;
+}
+
+#userList {
+    background-color: #eee!important;
+}
+
+#container {
+    background-color: #eee!important;
+}
+
+#header {
+    background-color: #eee !important;
+}
+
 #usersContainer {
-    background-color: inherit!important;
+    background-color: #BED0E5!important;
+}
+
+.windowChat {
+    height: calc(-60px + 100%)!important;
+}
+
+.jsPanel-content {
+    font-size: 16px !important;
+}
+
+.windowEraser {
+    color: black!important;
+}
+
+.open #footer {
+    background-color: #BED0E5 !important;
+}
+
+#footer {
+    background-color: #BED0E5!important;
+    padding-bottom: 20px !important;
+    height: 120px !important;
+    border-radius: 15px!important;
+}
+
+.textarea-icons-wrapper {
+    background-color: #bed0e5 !important;
+}
+
+.emojionearea {
+    background-color: #bed0e5 !important;
+}
+
+.emojionearea-editor {
+    background-color: #fff !important;
+    border-radius: 10px!important;
+}
+
+
+div.message div.content {
+    margin: 3px 0 0!important;
+    padding: 0px 10px!important;
+    border-radius: 0px!important;
+    margin-top: 3px!important;
+    min-width: calc(-21px + 85%) /* !important; */
+}
+
+div.content {
+    min-width: 80% !important;
+}
+
+.arrow-chat {
+    display: none !important;
+}
+
+.chat-window-wrap div.message div.content {
+    background-color: transparent !important;
+    border: 0px solid #f1f1f1!important;
+    box-shadow: 0 0 0 0!important;
+}
+
+.message {
+    padding: 0 !important;
+    border-radius: 5px!important;
+    margin: 3px 0!important;
+}
+
+.addPrivateMessage b img, .chat-window-wrap .message img {
+    margin: 3px!important;
+}
+
+#room_2392 > div:nth-of-type(odd) {
+    background: #F7FAFE!important;
+}
+
+#room_2392 > div:nth-of-type(even) {
+    background: #FBFAF5!important;
+}
+
+.message-info {
+    flex-direction: row!important;
+    flex-wrap: nowrap!important;
+    max-width: calc(-30px + 100%) !important;
+    min-width: calc(-30px + 100%) !important;
+}
+
+.name-time {
+    align-items: baseline !important;
+    margin-top: 2px!important;
+    white-space: nowrap!important;
+    overflow:hidden!important;
+}
+
+div.message img.userItem {
+    height: 24px !important;
+}
+
+.userItem {
+    font-size: 16px!important;
+}
+
+.userItem:after {
+    content: ': ' !important;
+}
+
+.timeStamp {
+    display: none !important;
+}
+
+.addPrivateMessage b img, .chat-window-wrap .message img {
+    min-width: 20px!important;
+    height: 20p!important;
+}
+
+div.message div.content {
+    padding: 0 0 !important;
+    font-size: 16px !important;
+    min-width: calc(-60px + 100%)!important;
+    max-width: calc(-30px + 95%)!important;
+}
+
+.content {
+    word-break: keep-all!important;
+}
+
+div.content img.emojioneemoji {
+    max-width: 24px !important;
+    max-height: 24px !important;
+}
+
+.serverMessage {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: white!important;
+}
+
+:last-child.menuUserItem {
+    display: none!important;
+}
+
+.privateRequested {
+    color: #fff!important;
+}
+
+.nav{
+    display:none !important;
+}
+
+#header{
+    position: absolute!important;
+    display:none!important;
 }
