@@ -1,11 +1,11 @@
 
 body, html {
-    background-color: #BED0E5 !important;
+    background-color: #000000 !important;
 }
 
 .welcome{
     background-color: rgba(0, 0, 0, 0.7)!important;
-    color: white!important;
+    color: black!important;
 }
 
 .roomJoinBtn {
@@ -96,7 +96,7 @@ body, html {
 #footer {
     background-color: #BED0E5!important;
     padding-bottom: 20px !important;
-    height: 120px !important;
+    height: 0px !important;
     border-radius: 15px!important;
 }
 
