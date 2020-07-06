@@ -954,7 +954,7 @@ div.colorPicker_hexWrap label {
 #sortBtn:hover, #sortWebcamtBtn:hover,  #sortWatchersBtn:hover{
     color: #e3e3e3;
     background-color: #18191b;
-    border-color: #101b25;
+    border-color: #ffffff;
 }
 
 .jsPanel-content.jsPanel-content-nofooter {
@@ -966,7 +966,7 @@ div.colorPicker_hexWrap label {
 }
 
 #tabs .nav-tabs > li > a:hover {
-    border-color: #212934;
+    border-color: #ffffff;
     background-color: transparent;
 }
 
@@ -1006,24 +1006,24 @@ div.colorPicker_hexWrap label {
 .bootbox .modal-content {
     background-color: #18191b !important;
     border: 1px solid #233037;
-    color: #6a7b92 !important;
+    color: #ffffff !important;
 }
 
 .modal-content {
-    color: #6a7b92 !important;
+    color: #ffffff !important;
 }
 
 .bootbox .modal-footer {
-    border-top: 1px solid #2f3a47;
+    border-top: 1px solid #ffffff;
 }
 
 .modal-footer {
-    border-top: 1px solid #2f3a47;
+    border-top: 1px solid #ffffff;
 }
 
 .modal-header {
     color: white;
-    border-bottom: 1px solid #2f3a47;
+    border-bottom: 1px solid #ffffff;
 }
 
 .close {
@@ -1033,7 +1033,7 @@ div.colorPicker_hexWrap label {
 #pushToTalkWindow {
     background-color: #18191b;
     box-shadow: -3px 3px 11px -1px #0d131a;
-    border: 1px solid #232b36;
+    border: 1px solid #ffffff;
 }
 
 .serverText {
@@ -1144,7 +1144,7 @@ div.colorPicker-palette {
 }
 
 #footer {
-    border-top: 1px solid #0d1826 !important;
+    border-top: 1px solid #ffffff !important;
     width: calc(100% - 40px);
 }
 
@@ -1172,7 +1172,7 @@ div.colorPicker-palette {
 }
 
 div.colorPicker-picker {
-    border: 2px solid #364252 !important;
+    border: 2px solid #ffffff !important;
 }
 
 #roomContainer .table-bordered {
@@ -1211,7 +1211,7 @@ div.colorPicker-picker {
 }
 
 .open .slide_block:before {
-    border-color: transparent transparent transparent #364356;
+    border-color: transparent transparent transparent #18191b;
 }
 
 .slide_block:before {
