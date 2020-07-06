@@ -1,4 +1,4 @@
-/* Css New  */
+/* Css Designed And Programed By Jamison Sutton-Confer  */
 
 #header {
     border-bottom: 1px solid #303541;
@@ -50,7 +50,7 @@
 }
 
 .status.online {
-    background-color: #6fdf9e;
+    background-color: #18191b;
     border: 4px solid #2c3345;
 }
 
@@ -71,7 +71,7 @@
 }
 
 div.message div.content {
-    background-color: #ffffff;
+    background-color: #18191b;
     box-shadow: -4px 5px 10px -5px #00000045;
 }
 
@@ -90,7 +90,7 @@ div.message div.content {
 }
 
 .online-user-item:nth-child(odd) {
-    background-color: #353d51;
+    background-color: #18191b;
 }
 
 #searchInput::-webkit-input-placeholder {
@@ -137,7 +137,7 @@ div.colorPicker-picker {
 }
 
 .welcome {
-    background-color: #ffffff;
+    background-color: #18191b;
     border: 1px solid #f3f1f1;
     color: #50ce85;
 }
@@ -184,13 +184,13 @@ div.colorPicker-picker {
 }
 
 #userList::-webkit-scrollbar-thumb {
-    background-color: #232a3a;
+    background-color: #18191b;
     outline: 1px solid #222631;
     border-radius: 20px;
 }
 
 .slide_block {
-    background-color: #373e51;
+    background-color: #18191b;
     box-shadow: 0 10px 50px rgba(0, 0, 0, 0.1), 0 4px 14px rgba(0, 0, 0, 0.4);
 }
 
@@ -204,12 +204,12 @@ div.colorPicker-picker {
 
 div.news {
     border: 0px solid #1a2736;
-    background-color: #0d1926;
+    background-color: #18191b;
     color: #adadad;
 }
 
 .emojionearea, .emojionearea.form-control {
-    background-color: #f5f6f8;
+    background-color: #18191b;
 }
 
 #sortBtn {
@@ -219,7 +219,7 @@ div.news {
 }
 
 .userItem:hover, #myUserMenu, #userMenu {
-    background-color: #3d455b;
+    background-color: #18191b;
 }
 
 #myUserMenu, #userMenu {
@@ -229,11 +229,11 @@ div.news {
 }
 
 .menuUserItem:hover {
-    background-color: #3a4051;
+    background-color: #18191b;
 }
 
 .webcamBtn {
-    background-color: #ff0142;
+    background-color: #18191b;
     color: white;
     box-shadow: 2px 2px 10px 0px #00000085;
 }
@@ -243,7 +243,7 @@ div.news {
 }
 
 div.pointsQuiz {
-    background-color: #22293a;
+    background-color: #18191b;
 }
 
 .webcamBtn .fa-unlock, .webcamBtn .fa-lock {
@@ -281,7 +281,7 @@ div.pointsQuiz {
 }
 
 .dark-modal .table-striped > tbody > tr:nth-of-type(odd) {
-    background-color: #424a5f;
+    background-color: #18191b;
 }
 
 .dark-modal .table-bordered {
@@ -295,7 +295,7 @@ div.pointsQuiz {
 }
 
 .table-hover > tbody > tr:hover, .dark-modal .table-striped > tbody > tr:nth-of-type(odd):hover {
-    background-color: #21293d;
+    background-color: #18191b;
 }
 
 .dark-modal .modal-body {
@@ -305,7 +305,7 @@ div.pointsQuiz {
 }
 
 #smileyContentLoader {
-    background-color: #2c3345 !important;
+    background-color: #18191b !important;
     top: 60px !important;
     height: calc(100% - 60px);
     padding: 40px !important;
@@ -359,7 +359,7 @@ div.pointsQuiz {
 }
 
 #smileyContainer {
-    background-color: #2c3345;
+    background-color: #18191b;
 }
 
 #smileysHeader {
@@ -370,7 +370,7 @@ div.pointsQuiz {
 
 #searchGifInput {
     border: 0px solid #686868;
-    background-color: #3e475d;
+    background-color: #18191b;
     border-top: 1px solid #2d3445;
     color: white;
     box-shadow: 1px -1px 24px #0000004a;
@@ -387,14 +387,14 @@ div.pointsQuiz {
 }
 
 .dark-blue-btn {
-    background-color: #262d3e;
+    background-color: #18191b;
     border: none;
     box-shadow: 1px 1px 3px 1px #0000003d !important;
     border: 0px solid #292d38;
 }
 
 .dark-blue-btn.active {
-    background-color: #4c8ec7;
+    background-color: #18191b;
     color: #faf8f8 !important;
     border: 0px;
 }
@@ -447,7 +447,7 @@ div.pointsQuiz {
 }
 
 .radio label::after {
-    background-color: #555555;
+    background-color: #18191b;
 }
 
 input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
@@ -489,7 +489,7 @@ input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
     top: -7px;
     color: white;
     margin-top: 7px;
-    background-color: #50ce85;
+    background-color: #18191b;
     border-bottom-left-radius: initial;
 }
 
@@ -509,16 +509,16 @@ input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
 
 div.colorPicker-palette {
     border: 1px solid #2c3345;
-    background-color: #efefef;
+    background-color: #18191b;
     padding: 5px;
-    background-color: #48536d;
+    background-color: #18191b;
     z-index: 9999;
     color: white;
     border-radius: 4px;
 }
 
 .bootbox .modal-content {
-    background-color: #2c3345;
+    background-color: #18191b;
 }
 
 .bootbox .modal-footer {
@@ -540,11 +540,11 @@ div.colorPicker_hexWrap label {
 }
 
 .jsPanel .jsPanel-hdr, .jsPanel .jsPanel-content {
-    background-color: #2c3345 !important;
+    background-color: #18191b !important;
 }
 
 .jsPanel-theme-default {
-    background-color: #2c3345 !important;
+    background-color: #18191b !important;
     border-color: #2c3345 !important;
     box-shadow: 0 16px 41px rgba(0, 0, 0, 0.5), 0 6px 16px rgba(0, 0, 0, 0.35) !important;
 }
@@ -575,7 +575,7 @@ div.colorPicker_hexWrap label {
 
 #pushToTalkWindow {
     z-index: 1000;
-    background-color: #2c3345;
+    background-color: #18191b;
     box-shadow: -2px 0px 10px 5px #0000005c;
     height: 130px;
     border: 1px solid #4c5a7c;
@@ -583,7 +583,7 @@ div.colorPicker_hexWrap label {
 
 #pushToTalkBtnClose {
     font-size: 0.8em;
-    background-color: #2d3445;
+    background-color: #18191b;
     color: white;
 }
 
@@ -592,7 +592,7 @@ div.colorPicker_hexWrap label {
     color: #000;
     border-bottom: 0px solid #4b597b;
     padding-left: 10px;
-    background-color: #2c3345;
+    background-color: #18191b;
     color: white;
     padding: 5px 10px;
 }
@@ -607,22 +607,22 @@ div.colorPicker_hexWrap label {
 }
 
 #youTubeCloseBtn {
-    background-color: #ff0142;
+    background-color: #18191b;
     color: white;
 }
 
 #header {
-    background-color: #0a141d !important;
+    background-color: #18191b !important;
     border-bottom: 0px solid #212934 !important;
 }
 
 #footer .emojionearea.emojionearea-inline {
     border: 1px solid #111b24 !important;
-    background-color: #0f1927;
+    background-color: #18191b;
 }
 
 #container {
-    background-color: #0a141e;
+    background-color: #18191b;
 }
 
 .chat-input-icons img, .emojionearea-button, .svg-header-icons, .home-tab {
@@ -630,7 +630,7 @@ div.colorPicker_hexWrap label {
 }
 
 #send-msg-btn {
-    background-color: #132233;
+    background-color: #18191b;
     color: #e3e3e3;
 }
 #send-msg-btn:hover {
@@ -638,7 +638,7 @@ div.colorPicker_hexWrap label {
 }
 
 .open #chatContainer .tab-pane {
-    background-color: #0a141d;
+    background-color: #18191b;
 }
 
 #usersContainer2, #roomsContainer2 {
@@ -670,7 +670,7 @@ div.colorPicker_hexWrap label {
 }
 
 #usersContainer .nav-pills > li.active > a, #usersContainer .nav-pills > li.active > a:focus, #usersContainer .nav-pills > li.active > a:hover {
-    background-color: #0f1929;
+    background-color: #18191b;
     border-right: 0px solid #50ce85;
     border-left: 1px solid #152637;
     color: #50ce85;
@@ -684,7 +684,7 @@ div.colorPicker_hexWrap label {
 #usersContainer li a {
     color: #d6d6d6;
     border-left: 1px solid #142635;
-    background-color: #0a141e;
+    background-color: #18191b;
     border-right: 1px solid #142635;
 }
 
@@ -694,12 +694,12 @@ div.colorPicker_hexWrap label {
 
 #usersContainer li.active a .badge {
     color: #111b24;
-    background-color: #50ce85 !important;
+    background-color: #18191b !important;
 }
 
 #usersContainer .nav-pills > li.active > a:hover, #usersContainer .nav-pills > li > a:hover {
     border-right: 0px solid #1b2937;
-    background-color: #0a141f;
+    background-color: #18191b;
     color: #d6d6d6;
 }
 
@@ -709,7 +709,7 @@ div.colorPicker_hexWrap label {
 
 #usersContainer .nav-tabs > li.active > a, #usersContainer .nav-tabs > li.active > a:focus, #usersContainer .nav-tabs > li.active > a:hover {
     color: #000000 !important;
-    background-color: #ffffff !important;
+    background-color: #18191b !important;
     border: 1px solid #e7e7e7 !important;
     border-bottom-color: #ffffff !important;
 }
@@ -730,12 +730,12 @@ div.colorPicker_hexWrap label {
 }
 
 .hamburger-header div {
-    background-color: #d1d1d1;
+    background-color: #18191b;
 }
 
 .ham-dropdown-list {
     border: 1px solid #162029;
-    background-color: #111b24;
+    background-color:#18191b;
 }
 
 .ham-dropdown-list > li > a {
@@ -771,7 +771,7 @@ div.colorPicker_hexWrap label {
 
 #header .btn-success:hover {
     color: #fff;
-    background-color: #50ce85;
+    background-color: #18191b;
     border-color: #45b775;
 }
 
@@ -781,7 +781,7 @@ div.colorPicker_hexWrap label {
 
 .chat-window-wrap div.message div.content {
     box-shadow: 0px 0px 0px 0px;
-    background-color: #101e32 !important;
+    background-color: #18191b !important;
     border: 1px solid #142435;
     border-top: 0px;
     border-radius: 3px;
@@ -823,7 +823,7 @@ div.colorPicker_hexWrap label {
 
 #sortBtn {
     border: 1px solid #313a45;
-    background-color: #212934;
+    background-color: #18191b;
     color: #ff0142;
 }
 
@@ -874,7 +874,7 @@ div.colorPicker_hexWrap label {
 }
 
 .webcamBtn {
-    background-color: #161f29 !important;
+    background-color: #18191b !important;
     color: #a2a2a2;
     border-color: #666;
 }
@@ -889,7 +889,7 @@ div.colorPicker_hexWrap label {
 
 .hand:hover {
     color: #fff;
-    background-color: #ffffff;
+    background-color: #18191b;
     border-color: #ffffff;
 }
 
@@ -901,7 +901,7 @@ div.colorPicker_hexWrap label {
 
 .light-modal .table > caption + thead > tr:first-child > td, .table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > td, .table > thead:first-child > tr:first-child > th {
     border: 1px solid #223345;
-    background-color: #1b2937;
+    background-color: #18191b;
     color: #e2e2e2;
     border-top: 0px !important;
     border-bottom: 1px solid #1c2a38;
@@ -912,7 +912,7 @@ div.colorPicker_hexWrap label {
 }
 
 #tabs .nav-tabs > li.active {
-    background-color: #ededed !important;
+    background-color: #18191b !important;
     color: white !important;
     border: 0px solid #ededed;
 }
@@ -927,7 +927,7 @@ div.colorPicker_hexWrap label {
 }
 
 #tabs .nav-tabs > li.active a {
-    background-color: #0a141e !important;
+    background-color: #18191b !important;
     color: #50ce84 !important;
     border: 0px solid #111b24 !important;
     border-bottom: 0px !important;
@@ -937,7 +937,7 @@ div.colorPicker_hexWrap label {
 #tabs .nav-tabs > li {
     border: 1px solid #212934;
     height: 34px !important;
-    background-color: #212934 !important;
+    background-color: #18191b !important;
     border-radius: 0 !important;
     margin-right: 2px !important;
 }
@@ -947,13 +947,13 @@ div.colorPicker_hexWrap label {
 }
 
 .jsPanel-theme-default {
-    background-color: #f5f5f5;
+    background-color: #18191b;
     border: 1px solid #dedede;
 }
 
 #sortBtn:hover, #sortWebcamtBtn:hover,  #sortWatchersBtn:hover{
     color: #e3e3e3;
-    background-color: #ff0142;
+    background-color: #18191b;
     border-color: #101b25;
 }
 
@@ -962,7 +962,7 @@ div.colorPicker_hexWrap label {
 }
 
 .menuUserItem:hover {
-    background-color: #212934;
+    background-color: #18191b;
 }
 
 #tabs .nav-tabs > li > a:hover {
@@ -971,11 +971,11 @@ div.colorPicker_hexWrap label {
 }
 
 .table-hover > tbody > tr:hover, .light-modal .table-striped > tbody > tr:nth-of-type(odd):hover, .light-modal .table-striped > tbody > tr:nth-of-type(even):hover {
-    background-color: #16202d;
+    background-color: #18191b;
 }
 
 .slide_block {
-    background-color: #0c1825 !important;
+    background-color: #18191b !important;
     border: 1px solid #888;
     border-right: 0;
     box-shadow: 3px -2px 4px rgba(0, 0, 0, 0.05), 0 1px 10px rgba(0, 0, 0, 0.1) !important;
@@ -986,7 +986,7 @@ div.colorPicker_hexWrap label {
 }
 
 #smileyContainer {
-    background-color: #222a35;
+    background-color: #18191b;
     box-shadow: 2px 2px 15px -1px #00000080;
 }
 
@@ -998,13 +998,13 @@ div.colorPicker_hexWrap label {
 
 #searchGifInput {
     border: 0px solid #686868;
-    background-color: #2d3847;
+    background-color: #18191b;
     border-top: 1px solid #222a35;
     box-shadow: 1px 1px 14px -3px #0f1922d4;
 }
 
 .bootbox .modal-content {
-    background-color: #202833 !important;
+    background-color: #18191b !important;
     border: 1px solid #233037;
     color: #6a7b92 !important;
 }
@@ -1031,7 +1031,7 @@ div.colorPicker_hexWrap label {
 }
 
 #pushToTalkWindow {
-    background-color: #232b36;
+    background-color: #18191b;
     box-shadow: -3px 3px 11px -1px #0d131a;
     border: 1px solid #232b36;
 }
@@ -1046,7 +1046,7 @@ div.colorPicker_hexWrap label {
 }
 
 .welcome {
-    background-color: #f20d47 !important;
+    background-color: #18191b !important;
     color: white !important;
     border: 0px;
 }
@@ -1062,7 +1062,7 @@ div.colorPicker_hexWrap label {
 #pushToTalkWindowHeader {
     color: #5b6c81;
     border-bottom: 1px solid #242c37;
-    background-color: #101b25;
+    background-color: #18191b;
 }
 
 .close:focus, .close:hover {
@@ -1075,7 +1075,7 @@ div.colorPicker_hexWrap label {
 }
 
 #tabs .nav-tabs > li.active {
-    background-color: #101b25 !important;
+    background-color: #18191b !important;
 }
 
 #uploadImageBtnLabel {
@@ -1097,7 +1097,7 @@ div.colorPicker_hexWrap label {
 
 div.colorPicker-palette {
     border: 1px solid #1f2d39 !important;
-    background-color: #18202a !important;
+    background-color: #18191b !important;
     box-shadow: 1px 3px 12px 3px #0c1318;
 }
 
@@ -1108,12 +1108,12 @@ div.colorPicker-palette {
 }
 
 #backgroundsContainer {
-    background-color: #212934;
+    background-color: #18191b;
     box-shadow: 2px 2px 15px -1px #00000080;
 }
 
 .emojionearea-picker {
-    background-color: #212934 !important;
+    background-color: #18191b !important;
     box-shadow: 2px 2px 15px -1px #00000080 !important;
 }
 
@@ -1130,7 +1130,7 @@ div.colorPicker-palette {
 }
 
 .joinRoomModal {
-    background-color: #21ade8;
+    background-color: #18191b;
     color: white;
 }
 
@@ -1161,13 +1161,13 @@ div.colorPicker-palette {
 }
 
 .webcamRequest, .privateRequest, .privateClosed {
-    background-color: #3f5471;
+    background-color: #18191b;
     border-bottom: 0px solid #DDD;
     color: #c7c7c7;
 }
 
 #footer .emojionearea.emojionearea-inline > .emojionearea-editor {
-    background-color: #0f1a28;
+    background-color: #18191b;
     border-radius: 3px;
 }
 
@@ -1200,14 +1200,14 @@ div.colorPicker-picker {
 }
 
 .addPrivateMessage::after {
-    background-color: #ff0142;
+    background-color: #18191b;
     color: white;
     font-weight: 700;
     border-top: 1px solid #111b24;
 }
 
 #usersContainer li a .badge {
-    background-color: #464646 !important;
+    background-color: #18191b !important;
 }
 
 .open .slide_block:before {
@@ -1219,7 +1219,7 @@ div.colorPicker-picker {
 }
 
 .emojionearea .emojionearea-picker.emojionearea-filters-position-top .emojionearea-filters {
-    background-color: #111b24 !important;
+    background-color: #18191b !important;
     border-bottom: 1px solid #343d4a !important;
 }
 
@@ -1228,7 +1228,7 @@ div.colorPicker-picker {
 }
 
 div.addPrivateMessage {
-    background-color: #0c1623 !important;
+    background-color: #18191b !important;
     border: 0px !important;
     margin: 5px 0px;
 }
@@ -1238,12 +1238,12 @@ div.addPrivateMessage {
 }
 
 .online-user-item:nth-child(odd) {
-    background-color: #0f1926 !important;
+    background-color: #18191b !important;
     border-left: 1px solid #152637;
 }
 
 .webcamRequested, .privateRequested {
-    background-color: #0e151d;
+    background-color: #18191b;
     border-bottom: 0px solid #f4f4f4;
     color: #8a96a4;
 }
@@ -1262,19 +1262,19 @@ div.addPrivateMessage {
 
 .btn-warning {
     color: #fff;
-    background-color: #f8df2a;
+    background-color: #18191b;
     border-color: #f8df2a;
 }
 
 .btn-warning:hover {
     color: #fff;
-    background-color: #f8e34a;
+    background-color: #18191b;
     border-color: #f8e34a;
 }
 
 .userAvatar {
     border: 1px solid #212934 !important;
-    background-color: #212934;
+    background-color: #18191b;
 }
 
 .myAudioCheckBox {
@@ -1286,7 +1286,7 @@ div.addPrivateMessage {
 }
 
 .modal-footer .btn-default {
-    background-color: #f20d47 !important;
+    background-color: #18191b !important;
     border: 0px;
     color: white;
     border-radius: 25px;
@@ -1294,22 +1294,22 @@ div.addPrivateMessage {
 
 .modal-footer .btn-primary {
     color: #fff;
-    background-color: #3389d3;
+    background-color: #18191b;
     border-color: #3389d3;
     box-shadow: 1px 1px 15px 1px #00000030;
     border: 1px solid #3389d3;
 }
 
 #roomsContainer2 .table-bordered {
-    background-color: #111b24;
+    background-color: #18191b;
 }
 
 .table-striped > tbody > tr:nth-of-type(odd) {
-    background-color: #101723;
+    background-color: #18191b;
 }
 
 .table-striped > tbody > tr:nth-of-type(even) {
-    background-color: #1b2937;
+    background-color: #18191b;
 }
 
 
@@ -1326,7 +1326,7 @@ div.addPrivateMessage {
 
 .checkbox label::before {
     border: 1px solid #212b37 !important;
-    background-color: #111b24 !important;
+    background-color: #18191b !important;
 }
 
 .ps-container:hover > .ps-scrollbar-x-rail, .ps-container:hover > .ps-scrollbar-y-rail {
@@ -1334,7 +1334,7 @@ div.addPrivateMessage {
 }
 
 .ps-container > .ps-scrollbar-y-rail > .ps-scrollbar-y {
-    background-color: #212934 !important;
+    background-color: #18191b !important;
 }
 
 #loginGuestModal {
@@ -1351,7 +1351,7 @@ div.addPrivateMessage {
 
 #loginGuestModal.light-modal .modal-content, #loginModal.light-modal .modal-content, #reportModal.light-modal .modal-content,
 #registerModal .modal-content, #tipsModal .modal-content{
-    background-color: #081119 !important;
+    background-color: #18191b !important;
 }
 
 .light-modal .form-group input {
@@ -1359,7 +1359,7 @@ div.addPrivateMessage {
 }
 
 .chat-window-wrap div.message.myMessage div.content {
-    background-color: #1a2739 !important;
+    background-color: #18191b !important;
 }
 
 .myMessage .arrow-chat::after {
@@ -1379,11 +1379,11 @@ div.addPrivateMessage {
 }
 
 .chat-window-wrap .message img, .addPrivateMessage b img {
-    /* background-color: #111d28 !important; */
+    /* background-color: #18191b !important; */
 }
 
 .myMessage .chat-window-wrap .message img, .addPrivateMessage b img {
-    background-color: #465a75 !important;
+    background-color: #18191b !important;
 }
 
 #myUserMenu, #userMenu {
@@ -1392,11 +1392,11 @@ div.addPrivateMessage {
 }
 
 .userItem:hover, #myUserMenu, #userMenu {
-    background-color: #111b24 !important;
+    background-color: #18191b !important;
 }
 
 #calendarBtn {
-    background-color: #222a35;
+    background-color: #18191b;
     color: #c9c7c7;
 }
 
@@ -1409,25 +1409,25 @@ div.addPrivateMessage {
 }
 
 div.zabuto_calendar .table tr.calendar-dow-header th {
-    background-color: #111b24;
+    background-color: #18191b;
     color: white;
     border-top: 1px solid #17222e;
 }
 
 div.zabuto_calendar tr.calendar-dow-header th, div.zabuto_calendar tr.calendar-dow td {
-    background-color: #0e161d;
+    background-color: #18191b;
     border-bottom: 1px solid #16212d;
     color: white;
 }
 
 div.zabuto_calendar .table tr.calendar-month-header td {
-    background-color: #101b25;
+    background-color: #18191b;
     border-color: #0f1b26;
     color: white;
 }
 
 div.zabuto_calendar .table tr td.event div.day, div.zabuto_calendar ul.legend li.event {
-    background-color: #ff0142;
+    background-color: #18191b;
 }
 
 div.textarea-icons-wrapper.flex-property {
@@ -1435,11 +1435,11 @@ div.textarea-icons-wrapper.flex-property {
 }
 
 .emojionearea, .emojionearea.form-control {
-    background-color: #0a141d;
+    background-color: #18191b;
 }
 
 #roomsModal div.modal-content {
-    background-color: #0a2136;
+    background-color: #18191b;
 }
 
 #backgroundsContainer label {
@@ -1447,7 +1447,7 @@ div.textarea-icons-wrapper.flex-property {
 }
 
 #roomsContainer2, #usersContainer2, #friendsContainer2 {
-    background-color: #0a141d;
+    background-color: #18191b;
 }
 
 .userItem {
@@ -1461,7 +1461,7 @@ div.textarea-icons-wrapper.flex-property {
 }
 
 #usersContainer2 button.selected {
-    background-color: #ff0142;
+    background-color: #18191b;
 }
 
 .headerPrivateBtn, .headerWhisperBtn {
@@ -1475,7 +1475,7 @@ div.webcamHeader {
 }
 
 .gutter {
-    background-color: #333;
+    background-color: #18191b;
 }
 .windowChat {
     background-color: initial;
