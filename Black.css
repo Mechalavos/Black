@@ -1,4 +1,4 @@
-/* Css Designed And Programed By Jamison Sutton-Confer  */
+/* Css New  */
 
 #header {
     border-bottom: 1px solid #303541;
@@ -51,7 +51,7 @@
 
 .status.online {
     background-color: #18191b;
-    border: 4px solid #2c3345;
+    border: 4px solid #3a3b3d;
 }
 
 .open #chatContainer {
@@ -164,7 +164,7 @@ div.colorPicker-picker {
 }
 
 .message img, .addPrivateMessage b img {
-    border: 1px solid #2c334561;
+    border: 1px solid #3a3b3d61;
 }
 
 .filtergender {
@@ -363,7 +363,7 @@ div.pointsQuiz {
 }
 
 #smileysHeader {
-    background: #2c3345;
+    background: #3a3b3d;
     border-bottom: 1px solid rgb(74, 82, 102);
     color: white;
 }
@@ -508,7 +508,7 @@ input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
 }
 
 div.colorPicker-palette {
-    border: 1px solid #2c3345;
+    border: 1px solid #3a3b3d;
     background-color: #18191b;
     padding: 5px;
     background-color: #18191b;
@@ -545,7 +545,7 @@ div.colorPicker_hexWrap label {
 
 .jsPanel-theme-default {
     background-color: #18191b !important;
-    border-color: #2c3345 !important;
+    border-color: #3a3b3d !important;
     box-shadow: 0 16px 41px rgba(0, 0, 0, 0.5), 0 6px 16px rgba(0, 0, 0, 0.35) !important;
 }
 
@@ -617,7 +617,7 @@ div.colorPicker_hexWrap label {
 }
 
 #footer .emojionearea.emojionearea-inline {
-    border: 1px solid #111b24 !important;
+    border: 1px solid #3a3b3d !important;
     background-color: #18191b;
 }
 
@@ -678,7 +678,7 @@ div.colorPicker_hexWrap label {
 
 .filtergender {
     background-color: transparent !important;
-    border-bottom: 1px solid #111b24 !important;
+    border-bottom: 1px solid #3a3b3d !important;
 }
 
 #usersContainer li a {
@@ -693,7 +693,7 @@ div.colorPicker_hexWrap label {
 }
 
 #usersContainer li.active a .badge {
-    color: #111b24;
+    color: #3a3b3d;
     background-color: #18191b !important;
 }
 
@@ -760,7 +760,7 @@ div.colorPicker_hexWrap label {
 }
 
 .open #usersContainer2 .tab-pane {
-    border-left: 0px solid #111b24;
+    border-left: 0px solid #3a3b3d;
     background-color: red !important;
 }
 
@@ -929,7 +929,7 @@ div.colorPicker_hexWrap label {
 #tabs .nav-tabs > li.active a {
     background-color: #18191b !important;
     color: #50ce84 !important;
-    border: 0px solid #111b24 !important;
+    border: 0px solid #3a3b3d !important;
     border-bottom: 0px !important;
     padding: 8px 12px;
 }
@@ -1203,7 +1203,7 @@ div.colorPicker-picker {
     background-color: #18191b;
     color: white;
     font-weight: 700;
-    border-top: 1px solid #111b24;
+    border-top: 1px solid #3a3b3d;
 }
 
 #usersContainer li a .badge {
