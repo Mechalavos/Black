@@ -86,7 +86,7 @@ div.message div.content {
 
 .users-info {
     border-bottom: 1px solid #282f3e;
-    color: #4c8ec7;
+    color: #3a3b3d;
 }
 
 .online-user-item:nth-child(odd) {
@@ -119,7 +119,7 @@ div.message div.content {
 }
 
 div.colorPicker-picker {
-    border: 2px solid #4c8ec7;
+    border: 2px solid #3a3b3d;
 }
 
 .checkbox label::before {
@@ -128,11 +128,11 @@ div.colorPicker-picker {
 }
 
 .checkbox label::after {
-    color: #4c8ec7;
+    color: #3a3b3d;
 }
 
 .userItem img.avatarUser {
-    border: 1px solid #4c8ec752;
+    border: 1px solid #3a3b3d52;
     box-shadow: 1px 0px 8px 1px #262c3ad1;
 }
 
@@ -160,7 +160,7 @@ div.colorPicker-picker {
 }
 
 #cleanButtonContainer, #smileyButtonContainer, #djButtonContainer, #pushTalkButtonContainer, #pushToTalkFreeHandContainer {
-    color: #4c8ec7;
+    color: #3a3b3d;
 }
 
 .message img, .addPrivateMessage b img {
@@ -214,8 +214,8 @@ div.news {
 
 #sortBtn {
     background: transparent;
-    color: #4c8ec7;
-    border: 1px solid #4c8ec7;
+    color: #3a3b3d;
+    border: 1px solid #3a3b3d;
 }
 
 .userItem:hover, #myUserMenu, #userMenu {
@@ -252,11 +252,11 @@ div.pointsQuiz {
 
 .hand {
     background-color: transparent;
-    border: 0px solid #4c8ec7;
+    border: 0px solid #3a3b3d;
 }
 
 .hand .fa, .hand .glyphicon {
-    color: #4c8ec7;
+    color: #3a3b3d;
 }
 
 /* ============ login modal-dark ============ */
@@ -309,7 +309,7 @@ div.pointsQuiz {
     top: 60px !important;
     height: calc(100% - 60px);
     padding: 40px !important;
-    color: #4c8ec7 !important;
+    color: #3a3b3d !important;
 }
 
 .dark-modal .modal-footer {
@@ -322,7 +322,7 @@ div.pointsQuiz {
     border-bottom: 1px solid #343d56;
     /*padding: 20px 0px;*/
     margin-top: 7px;
-    color: #4c8ec7;
+    color: #3a3b3d;
     border-radius: 0px;
     box-shadow: 0px 0px white;
 }
@@ -332,7 +332,7 @@ div.pointsQuiz {
 }
 
 .dark-modal .modal-title {
-    color: #4c8ec7;
+    color: #3a3b3d;
     font-weight: 600;
     font-size: 18px;
     letter-spacing: 1px;
@@ -377,7 +377,7 @@ div.pointsQuiz {
 }
 
 .info-icons {
-    color: #4c8ec7 !important;
+    color: #3a3b3d !important;
 }
 
 .eyeIcon .fa-2x {
@@ -464,7 +464,7 @@ input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
 }
 
 .open .slide_block:before {
-    border-color: transparent transparent transparent #4c8ec7;
+    border-color: transparent transparent transparent #3a3b3d;
 }
 
 #chatInput {
@@ -504,7 +504,7 @@ input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
 
 
 .keyboard {
-    color: #4c8ec7;
+    color: #3a3b3d;
 }
 
 div.colorPicker-palette {
@@ -536,7 +536,7 @@ div.colorPicker-palette {
 }
 
 div.colorPicker_hexWrap label {
-    color: #4c8ec7;
+    color: #3a3b3d;
 }
 
 .jsPanel .jsPanel-hdr, .jsPanel .jsPanel-content {
@@ -1066,7 +1066,7 @@ div.colorPicker_hexWrap label {
 }
 
 .close:focus, .close:hover {
-    color: #4c8ec7;
+    color: #3a3b3d;
     text-decoration: none;
     cursor: pointer;
     filter: alpha(opacity=50);
