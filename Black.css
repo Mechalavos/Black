@@ -1,15 +1,15 @@
-#header{border-bottom:1px solid #303541;background-color:#2b3245}
+#header{border-bottom:1px solid #303541;background-color:#18191b}
 #header .btn{box-shadow:5px 4px 15px 1px #10001066!important}
 #smileyButton:hover,#clearButton:hover,#djBtn:hover{color:#f5f6f8}
-.btn-success:hover{background-color:#47c17b;border:1px solid #47c17b!important}
-.btn-danger:hover{background-color:#ff0142!important;border-color:#ff0142!important}
+.btn-success:hover{background-color:#18191b;border:1px solid #47c17b!important}
+.btn-danger:hover{background-color:#18191b!important;border-color:#ff0142!important}
 .btn-group{border-top:1px solid #37383ae0;box-shadow:1px -1px 24px #1e1d1d4a}
 .open #usersContainer,#usersContainer{background-color:##18191b!important}
 .myUsername{color:#fff}
 .userAvatar{border:1px solid #5d6270}
 #myWebcamContainer label.btn{font-size:.9em;color:#d7d7d7}
 #myWebcamContainer label.btn:hover{color:#d8d7d7}
-.status.online{background-color:#6fdf9e;border:4px solid #2c3345}
+.status.online{background-color:#18191b;border:4px solid #2c3345}
 .open #chatContainer{background-color:##18191b!important}
 #broadcastCheckBox:disabled{color:#fff!important}
 .message.timeStamp{color:#919191}
@@ -43,14 +43,14 @@ div.colorPicker-picker{border:2px solid #4c8ec7}
 #userList::-webkit-scrollbar{width:10px;border-radius:20px}
 #userList::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);border-radius:20px}
 #userList::-webkit-scrollbar-thumb{background-color:#232a3a;outline:1px solid #222631;border-radius:20px}
-.slide_block{background-color:#373e51;box-shadow:0 10px 50px rgba(0,0,0,.1),0 4px 14px rgba(0,0,0,.4)}
+.slide_block{background-color:#18191b;box-shadow:0 10px 50px rgba(0,0,0,.1),0 4px 14px rgba(0,0,0,.4)}
 #pushTalkBtn{}.serverText{color:#a7a7a7}div.news{border:0 solid #1a2736;background-color:#0d1926;color:#adadad}
 .emojionearea,.emojionearea.form-control{background-color:#f5f6f8}
 #sortBtn{background:0 0;color:#4c8ec7;border:1px solid #4c8ec7}
-.userItem:hover,#myUserMenu,#userMenu{background-color:#3d455b}
+.userItem:hover,#myUserMenu,#userMenu{background-color:#18191b}
 #myUserMenu,#userMenu{border:1px solid #252b39;box-shadow:2px 3px 30px 3px #0000004a;color:#fff}
-.menuUserItem:hover{background-color:#3a4051}
-.webcamBtn{background-color:#ff0142;color:#fff;box-shadow:2px 2px 10px 0 #00000085}
+.menuUserItem:hover{background-color:#18191b}
+.webcamBtn{background-color:#18191b;color:#fff;box-shadow:2px 2px 10px 0 #00000085}
 .webcamBtn
 .fa,.eye-icon
 .fa-eye{text-shadow:1px 0 3px #1f1f1fbd}div.pointsQuiz{background-color:#22293a}
@@ -68,9 +68,8 @@ div.colorPicker-picker{border:2px solid #4c8ec7}
 .dark-modal .table-bordered{border:1px solid #455273;border-bottom:0}
 .dark-modal .table>caption+thead>tr:first-child>td,.table>caption+thead>tr:first-child>th,.table>colgroup+thead>tr:first-child>td,.table>colgroup+thead>tr:first-child>th,.table>thead:first-child>tr:first-child>td,.table>thead:first-child>tr:first-child>th{border-top:0;border-bottom:1px solid #445172}
 .table-hover>tbody>tr:hover,.dark-modal .table-striped>tbody>tr:nth-of-type(odd):hover{background-color:#21293d}
-NICE
 .dark-modal .modal-body{color:##18191b;padding:30px;font-weight:100}
-#smileyContentLoader{background-color:#2c3345!important;top:60px!important;height:calc(100% - 60px);padding:40px!important;color:#4c8ec7!important}
+#smileyContentLoader{background-color:#18191b!important;top:60px!important;height:calc(100% - 60px);padding:40px!important;color:#4c8ec7!important}
 .dark-modal .modal-footer{border-top:0 solid #383e4f}
 .dark-modal .form-group input{background-color:transparent!important;border:none;border-bottom:1px solid #343d56;margin-top:7px;color:#4c8ec7;border-radius:0;box-shadow:0 0 #fff}
 .dark-modal .form-group .radio input{outline:none!important}
@@ -107,7 +106,7 @@ NICE
 .addPrivateMessage.message
 .content{margin-top:35px;margin-left:0}
 .addPrivateMessage:after{display:inline-block;position:absolute;content:'Mention';width:auto;height:25px;padding:4px 12px;right:0;font-size:12px;top:-7px;color:#fff;margin-top:7px;background-color:#50ce85;border-bottom-left-radius:initial}
-.nav-tabs{border-bottom:1px solid #f3f3f3;background-color:#fff}
+.nav-tabs{border-bottom:1px solid #f3f3f3;background-color:#18191b}
 .tab-content{box-shadow:-2px 0 25px -1px #a09f9f42}
 .keyboard{color:#4c8ec7}
 div.colorPicker-palette{border:1px solid #2c3345;background-color:#efefef;padding:5px;background-color:#48536d;z-index:9999;color:#fff;border-radius:4px}
@@ -417,14 +416,13 @@ div.textarea-icons-wrapper.flex-property{background:#000000}
 #usersContainer2 button.selected{background-color:##18191b}
 .headerPrivateBtn,.headerWhisperBtn{background:0 0!important;color:#fff}
 div.webcamHeader{background:#000;color:#fff}
-.gutter{background-color:##18191b}
+.gutter{background-color:#18191b}
 .windowChat{background-color:initial}
-Blaze it
 div.jsPanel[data-btnmaximize=enabled]
-.jsPanel-headerbar{background-color:##18191b;color:#fff}
+.jsPanel-headerbar{background-color:#18191b;color:#fff}
 .headerPrivateBtn:hover,.headerWhisperBtn:hover{color:red}
-#tableRoomBody .activeRoom{background-color:#000}
-button.roomJoinBtn{background:##18191b;border-color:#ff0142!important}
+#tableRoomBody .activeRoom{background-color:#18191b}
+button.roomJoinBtn{background:#18191b;border-color:#ff0142!important}
 @media only screen and (max-width:991px){}
 @media only screen and (max-width:768px){#usersContainer2,#roomsContainer2,
  #usersContainer li a{border-right:0!important}#usersContainer
@@ -435,4 +433,3 @@ button.roomJoinBtn{background:##18191b;border-color:#ff0142!important}
 #roomsContainer2{border-left:1px solid #f5f5f5}}
 @media only screen and (max-width:510px){}
 @media only screen and (max-width:480px){.msg-box{border-bottom:0 solid #f4f4f4}}
-<!- Craig is an asshole who only knows how to steal code and has 0 knowledge of this platform or what its capable of ->
