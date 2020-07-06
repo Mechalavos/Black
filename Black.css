@@ -1,7 +1,7 @@
 /* Css New  */
 
 #header {
-    border-bottom: 1px solid #303541;
+    border-bottom: 1px solid #18191b;
     background-color: #18191b;
 }
 
@@ -80,7 +80,7 @@ div.message div.content {
 }
 
 .search-bar {
-    border-top: 1px solid #11212e;
+    border-top: 1px solid #ffffff;
     box-shadow: 14px 0px 14px 1px #0000001f;
 }
 
@@ -123,7 +123,7 @@ div.colorPicker-picker {
 }
 
 .checkbox label::before {
-    border: 1px solid #2f3c59;
+    border: 1px solid #ffffff;
     background-color: transparent;
 }
 
@@ -276,7 +276,7 @@ div.pointsQuiz {
 }
 
 .dark-modal .table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
-    border: 1px solid #465373;
+    border: 1px solid #ffffff;
     border-top: 0px;
 }
 
@@ -285,13 +285,13 @@ div.pointsQuiz {
 }
 
 .dark-modal .table-bordered {
-    border: 1px solid #455273;
+    border: 1px solid #ffffff;
     border-bottom: 0px;
 }
 
 .dark-modal .table > caption + thead > tr:first-child > td, .table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > td, .table > thead:first-child > tr:first-child > th {
     border-top: 0;
-    border-bottom: 1px solid #445172;
+    border-bottom: 1px solid #ffffff;
 }
 
 .table-hover > tbody > tr:hover, .dark-modal .table-striped > tbody > tr:nth-of-type(odd):hover {
@@ -319,7 +319,7 @@ div.pointsQuiz {
 .dark-modal .form-group input {
     background-color: transparent !important;
     border: none;
-    border-bottom: 1px solid #343d56;
+    border-bottom: 1px solid #ffffff;
     /*padding: 20px 0px;*/
     margin-top: 7px;
     color: #3a3b3d;
@@ -371,7 +371,7 @@ div.pointsQuiz {
 #searchGifInput {
     border: 0px solid #686868;
     background-color: #18191b;
-    border-top: 1px solid #2d3445;
+    border-top: 1px solid #ffffff;
     color: white;
     box-shadow: 1px -1px 24px #0000004a;
 }
@@ -456,7 +456,7 @@ input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
 
 
 .radio label::before {
-    border: 1px solid #38435f;
+    border: 1px solid #ffffff;
     background-color: transparent;
 }
 
@@ -578,7 +578,7 @@ div.colorPicker_hexWrap label {
     background-color: #18191b;
     box-shadow: -2px 0px 10px 5px #0000005c;
     height: 130px;
-    border: 1px solid #4c5a7c;
+    border: 1px solid #ffffff;
 }
 
 #pushToTalkBtnClose {
@@ -590,7 +590,7 @@ div.colorPicker_hexWrap label {
 #pushToTalkWindowHeader {
     font-size: 0.8em;
     color: #000;
-    border-bottom: 0px solid #4b597b;
+    border-bottom: 0px solid #ffffff;
     padding-left: 10px;
     background-color: #18191b;
     color: white;
@@ -666,13 +666,13 @@ div.colorPicker_hexWrap label {
 #tabs .nav-tabs {
     background-color: #18191b !important;
     padding-left: 1px !important;
-    border-top: 1px solid #0f1925 !important;
+    border-top: 1px solid #ffffff !important;
 }
 
 #usersContainer .nav-pills > li.active > a, #usersContainer .nav-pills > li.active > a:focus, #usersContainer .nav-pills > li.active > a:hover {
     background-color: #18191b;
     border-right: 0px solid #50ce85;
-    border-left: 1px solid #152637;
+    border-left: 1px solid #ffffff;
     color: #50ce85;
 }
 
@@ -683,9 +683,9 @@ div.colorPicker_hexWrap label {
 
 #usersContainer li a {
     color: #d6d6d6;
-    border-left: 1px solid #142635;
+    border-left: 1px solid #ffffff;
     background-color: #18191b;
-    border-right: 1px solid #142635;
+    border-right: 1px solid #ffffff;
 }
 
 #usersContainer li.active a {
@@ -698,7 +698,7 @@ div.colorPicker_hexWrap label {
 }
 
 #usersContainer .nav-pills > li.active > a:hover, #usersContainer .nav-pills > li > a:hover {
-    border-right: 0px solid #1b2937;
+    border-right: 0px solid #ffffff;
     background-color: #18191b;
     color: #d6d6d6;
 }
@@ -782,7 +782,7 @@ div.colorPicker_hexWrap label {
 .chat-window-wrap div.message div.content {
     box-shadow: 0px 0px 0px 0px;
     background-color: #18191b !important;
-    border: 1px solid #142435;
+    border: 1px solid #ffffff;
     border-top: 0px;
     border-radius: 3px;
 }
@@ -846,9 +846,9 @@ div.colorPicker_hexWrap label {
 
 .users-info {
     background-color: transparent;
-    border-bottom: 1px solid #152737 !important;
+    border-bottom: 1px solid #ffffff !important;
     /*color: #2b4155 !important;*/
-    border-top: 1px solid #132230 !important;
+    border-top: 1px solid #ffffff !important;
 }
 
 .filtergenderItem {
@@ -856,7 +856,7 @@ div.colorPicker_hexWrap label {
 }
 
 #userList .status {
-    border: 3px solid #212934 !important;
+    border: 3px solid #ffffff !important;
 }
 
 #userList .userItem img.avatarUser {
@@ -895,16 +895,16 @@ div.colorPicker_hexWrap label {
 
 .table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
     color: #c1c1c1;
-    border: 1px solid #152637;
-    border-bottom: 1px solid #152637;
+    border: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
 }
 
 .light-modal .table > caption + thead > tr:first-child > td, .table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > td, .table > thead:first-child > tr:first-child > th {
-    border: 1px solid #223345;
+    border: 1px solid #ffffff;
     background-color: #18191b;
     color: #e2e2e2;
     border-top: 0px !important;
-    border-bottom: 1px solid #1c2a38;
+    border-bottom: 1px solid #ffffff;
 }
 
 .userTabAvatar {
@@ -935,7 +935,7 @@ div.colorPicker_hexWrap label {
 }
 
 #tabs .nav-tabs > li {
-    border: 1px solid #212934;
+    border: 1px solid #ffffff;
     height: 34px !important;
     background-color: #18191b !important;
     border-radius: 0 !important;
