@@ -184,7 +184,7 @@ div.colorPicker-picker {
 }
 
 #userList::-webkit-scrollbar-thumb {
-    background-color: #18191b;
+    background-color: #ffffff;
     outline: 1px solid #ffffff;
     border-radius: 20px;
 }
