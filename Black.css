@@ -1,7 +1,7 @@
 /* Css New  */
 
 #header {
-    border-bottom: 1px solid #18191b;
+    border-bottom: 1px solid #ffffff;
     background-color: #18191b;
 }
 
@@ -63,7 +63,7 @@
 }
 
 .message .timeStamp {
-    color: #919191;
+    color: #18191b;
 }
 
 .message-text {
@@ -185,7 +185,7 @@ div.colorPicker-picker {
 
 #userList::-webkit-scrollbar-thumb {
     background-color: #18191b;
-    outline: 1px solid #222631;
+    outline: 1px solid #ffffff;
     border-radius: 20px;
 }
 
@@ -464,7 +464,7 @@ input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
 }
 
 .open .slide_block:before {
-    border-color: transparent transparent transparent #3a3b3d;
+    border-color: transparent transparent transparent #ffffff;
 }
 
 #chatInput {
@@ -1135,7 +1135,7 @@ div.colorPicker-palette {
 }
 
 .joinRoomModal:hover {
-    color: white;
+    color: #18191b;
 }
 
 #usersContainer2 .search-bar {
@@ -1377,7 +1377,7 @@ div.addPrivateMessage {
     transform: rotate(-45deg);
     /* box-shadow: 2px -1px 1px 0 rgb(255, 55, 55); */
 }
- 
+
 .chat-window-wrap .message img, .addPrivateMessage b img {
     /* background-color: #18191b !important; */
 }
