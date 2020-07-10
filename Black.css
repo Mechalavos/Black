@@ -305,7 +305,7 @@ div.pointsQuiz {
 }
 
 #smileyContentLoader {
-    background-color: #18191b !important;
+    background-color: #ffffff !important;
     top: 60px !important;
     height: calc(100% - 60px);
     padding: 40px !important;
