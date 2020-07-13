@@ -199,7 +199,7 @@ div.colorPicker-picker {
 }
 
 .serverText {
-    background-color: #18191b
+    background-color: #18191b;
     color: #18191b;
 }
 
@@ -1039,11 +1039,11 @@ div.colorPicker_hexWrap label {
 }
 /* I have to keep positive even though some things here arent working I dont know why they dont when everything here looks like it will work Its hard to keep positive */
 .serverText {
-    background-color: #18191b
+    background-color: #18191b;
     color: #18191b !important;
 }
 .serverText .webcamOpened {
-  background-color: #18191b
+  background-color: #18191b;
   color: #18191b !important;  
 }
 
@@ -1268,7 +1268,7 @@ div.addPrivateMessage {
 }
 
 .btn-warning {
-    color: #fff;
+    color: #18191b;
     background-color: #18191b;
     border-color: #f8df2a;
 }
