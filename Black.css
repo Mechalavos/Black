@@ -1,4 +1,4 @@
-/* Css New  */
+/* Css Designed for my best friend and my inspiration she is my UwU Queen  */
 
 #header {
     border-bottom: 1px solid #ffffff;
@@ -172,7 +172,7 @@ div.colorPicker-picker {
     box-shadow: 1px -1px 24px #0000004a;
     border-bottom: 1px solid #272c36;
 }
-
+/*she makes every smile I have mean something where I dont have to fake who I am anymore  */
 #userList::-webkit-scrollbar {
     width: 10px;
     border-radius: 20px;
@@ -218,7 +218,7 @@ div.news {
     border: 1px solid #3a3b3d;
 }
 
-.userItem:hover, #myUserMenu, #userMenu {
+.user:hover, #myUserMenu, #userMenu {
     background-color: #18191b;
 }
 
@@ -293,7 +293,7 @@ div.pointsQuiz {
     border-top: 0;
     border-bottom: 1px solid #ffffff;
 }
-
+/* Ari Keeps pushing me to do more and more but I get so tired and miss my best friend I feel like I cant talk to her much because im so busy  */
 .table-hover > tbody > tr:hover, .dark-modal .table-striped > tbody > tr:nth-of-type(odd):hover {
     background-color: #18191b;
 }
@@ -552,7 +552,7 @@ div.colorPicker_hexWrap label {
 .webcamContainer {
     border: 0px !important;
 }
-
+/* Craig keeps saying about how this chat cant do this or do that but hes so wrong because he knows nothing about programming and makes me so angry */
 .jsPanel-theme-default > .jsPanel-hdr * {
     color: #dadada !important;
 }
@@ -826,6 +826,7 @@ div.colorPicker_hexWrap label {
     background-color: #18191b;
     color: #ff0142;
 }
+/* I miss talking to my UwU Queen I think about her all the time and hope shes doing okay sometimes my thoughts are a bit much that I hide even from her but I know things are fine between us I just worry I am too much at times and push her away */
 
 #searchInput::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
@@ -1035,9 +1036,9 @@ div.colorPicker_hexWrap label {
     box-shadow: -3px 3px 11px -1px #0d131a;
     border: 1px solid #ffffff;
 }
-
+/* I have to keep positive even though some things here arent working I dont know why they dont when everything here looks like it will work Its hard to keep positive */
 .serverText {
-    color: #ffffff !important;
+    color: #18191b !important;
 }
 
 #loginGuestModal .radio label::before {
@@ -1533,3 +1534,4 @@ button.roomJoinBtn {
         border-bottom: 0 solid #f4f4f4;
     }
 }
+/* This code is dedicated to the best friend I could ever have in this world and she means more to me than I can ever say to anyone I love you so much and I want you to always know that even though you might never see any of this Know that you mean the world to me and nobody will ever take the feelings you give me away no matter how hard they try you will always be in my heart <3333333  */
