@@ -1042,6 +1042,10 @@ div.colorPicker_hexWrap label {
     background-color: #18191b
     color: #18191b !important;
 }
+.serverText .webcamOpened {
+  background-color: #18191b
+  color: #18191b !important;  
+}
 
 #loginGuestModal .radio label::before {
     border: 2px solid #333f45;
