@@ -709,7 +709,7 @@ div.colorPicker_hexWrap label {
 }
 
 #usersContainer .nav-tabs > li.active > a, #usersContainer .nav-tabs > li.active > a:focus, #usersContainer .nav-tabs > li.active > a:hover {
-    color: #18191b !important;
+    color: #ffffff !important;
     background-color: #18191b !important;
     border: 1px solid #e7e7e7 !important;
     border-bottom-color: #ffffff !important;
@@ -1044,7 +1044,7 @@ div.colorPicker_hexWrap label {
 }
 .serverText .webcamOpened {
   background-color: #18191b !important;
-  color: #ffffff !important;  
+  color: #ffffff !important;
 }
 
 #loginGuestModal .radio label::before {
