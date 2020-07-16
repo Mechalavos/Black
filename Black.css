@@ -734,6 +734,9 @@ div.colorPicker_hexWrap label {
     background-color: #18191b;
 }
 
+.dropdown-toggle .hamburger-header {
+  Color #ffffff
+}
 .ham-dropdown-list {
     border: 1px solid #ffffff;
     background-color:#18191b;
