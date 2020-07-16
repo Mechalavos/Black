@@ -690,7 +690,7 @@ div.colorPicker_hexWrap label {
 }
 
 #usersContainer li.active a {
-    color: #464646;
+    color: #ffffff;
 }
 
 #usersContainer li.active a .badge {
@@ -1082,6 +1082,7 @@ div.colorPicker_hexWrap label {
 }
 
 #tabs .nav-tabs > li.active {
+    color: #ffffff
     background-color: #18191b !important;
 }
 
