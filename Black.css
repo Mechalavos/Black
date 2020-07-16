@@ -456,6 +456,11 @@ input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
 }
 
 
+.whisper {
+  background-color: #18191b
+}
+
+
 .radio label::before {
     border: 1px solid #ffffff;
     background-color: transparent;
