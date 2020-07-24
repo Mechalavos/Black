@@ -371,7 +371,7 @@ div.pointsQuiz {
 
 #searchGifInput {
     border: 0px solid #686868;
-    background-color: #18191b;
+    background-color: #18191b !important;
     border-top: 1px solid #ffffff;
     color: white;
     box-shadow: 1px -1px 24px #0000004a;
