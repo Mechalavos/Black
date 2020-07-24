@@ -609,7 +609,7 @@ div.colorPicker_hexWrap label {
 }
 
 #uploadImageBtnLabel:after {
-    color: #18191b;
+    color: #18191b !important;
 }
 
 #youTubeCloseBtn {
@@ -819,7 +819,7 @@ div.colorPicker_hexWrap label {
 
 
 .emojionearea .emojionearea-button > div, .emojionearea .emojionearea-picker .emojionearea-wrapper:after {
-    background-image: url("https://img.favpng.com/14/22/5/emoticon-emoji-icon-png-favpng-zYKN8GfdCBeaN1rxYybZWBGuh.jpg") !important;
+    background-image: url("https://imgur.com/KExL9Ai") !important;
 }
 
 .chat-input-icons .fa {
